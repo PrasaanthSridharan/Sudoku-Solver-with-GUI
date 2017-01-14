@@ -40,7 +40,7 @@ At Row 4 and Column 8, there are no possible numbers that can fill the position.
 ![alt tag](https://github.com/PrasaanthSridharan/Sudoku-Solver-with-GUI/blob/master/images/1.6.png)
 
 ### Case 5 (Solved)
-This case is an augmentation of the puzzle presented in **Case 4**. In this case, the initial conditions presented to the problem have been tinkered, allowing for a solvable Sudoku puzzle.  
+This case is an augmentation of the puzzle presented in **Case 4**. In this case, the initial conditions given to the program have been tinkered, allowing for a solvable Sudoku puzzle.  
   
 ![alt tag](https://github.com/PrasaanthSridharan/Sudoku-Solver-with-GUI/blob/master/images/1.7d.png)
 
