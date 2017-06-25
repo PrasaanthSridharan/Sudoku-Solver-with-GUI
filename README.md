@@ -3,9 +3,9 @@
 
 This application solves any solvable Sudoku puzzle of 9x9 grid. This was an experiment to see how convoluted the implementation would be if recursion was NOT used **(Some languages associated with machine learning, like SAP's Event Stream Processing, don't support recursion)**. The obviously efficient implementation would be to use recursion, but the same efficient principles are followed using a do-while loop.
 ## Solution Demonstration 
-###Sample Test Case:  
+### Sample Test Case:  
 ![alt tag](https://github.com/PrasaanthSridharan/Sudoku-Solver-with-GUI/blob/master/images/TestCase1.png)
-###Solved Using This Application:  
+### Solved Using This Application:  
 ![alt tag](https://github.com/PrasaanthSridharan/Sudoku-Solver-with-GUI/blob/master/images/1.1.png) 
 ![alt tag](https://github.com/PrasaanthSridharan/Sudoku-Solver-with-GUI/blob/master/images/1.2.png)
 ## Test Cases
